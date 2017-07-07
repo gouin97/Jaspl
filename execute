@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Cleans files
+rm variables.json
+rm toPrint.json
+rm ordered_variables.json
+
+#Launches python files
+python initialize.py;
+python storeVariables.py;
+python print.py;

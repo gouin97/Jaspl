@@ -1,0 +1,6 @@
+print(allo);
+{gab=450}
+print(bonjour);
+{hello=333}
+print(hello);
+print("hello");
